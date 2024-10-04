@@ -73,6 +73,7 @@
   align-self: stretch;
   background-position: 50% 50%;
   background-size: cover;
+  background-image: url(../img/banner-section.png);
   display: flex;
   flex-direction: column;
   gap: 115px;
@@ -713,6 +714,7 @@
   align-self: stretch;
   background-position: 50% 50%;
   background-size: cover;
+  background-image: url(../img/banner-section.png);
   display: flex;
   flex-direction: column;
   gap: 115px;
